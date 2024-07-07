@@ -8,11 +8,9 @@ You also need to install the cryptography library. You can install it using pip:
 pip install cryptography
 
 How to Use
-Save the script:
 Save the provided Python script as main.py in the directory containing the files you want to encrypt.
 
 Run the script:
-Execute the script with Python:
 python main.py
 
 This script will:
